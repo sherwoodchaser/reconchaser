@@ -63,4 +63,6 @@ ReconChaser is a powerful subdomain discovery automation tool designed for recon
 🔍 Getting subdomains using findomain [3582 subdomains found]
 🔍 Getting subdomains using assetfinder [510 subdomains found]
 ✅ Found 3873 unique subdomains, happy hacking 😊
+✅ Subdomains saved to: /home/kali/Desktop/target.com.txt
+
 ```
